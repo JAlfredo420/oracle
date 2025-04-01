@@ -44,5 +44,6 @@ Automáticamente se dará comienzo al proceso de creación de la instancia, tal 
 
 ![screen](Oracle/Ima/instancia.png)
 
-En nuestro caso se necesitas acceso remoto por SSH, abrimos power shell para luego enrtar a la capeta en donde se encuentra la llave.
+En nuestro caso se necesitas acceso remoto por SSH, abrimos power shell para luego enrtar a la capeta en donde se encuentra la llave.![screen](Oracle/Ima/ssh.png)
 
+Al ingresar el comando, nos muestra la siguiente imagen. ![screen](Oracle/Ima/sesion_ssh.png)
