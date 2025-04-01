@@ -13,17 +13,21 @@ trabajo de oracle
 ![screen](https://github.com/JAlfredo420/Sistemas-Telem-ticos/blob/e894733406414ed0b886e38baaa08b5d65f75c11/Oracle/Ima/creatorin.png)
 ## Creacion de una instancia en Oracle Cloud
 1. Inicia sesión en Oracle Cloued con tu nombre de cliente en la nube proporcionado por Oracle.
-
 2. Coloca tus datos de inicio de sesión.
+![screen](Oracle/Ima/sesion.png)
 
 ## 1.Creación de la Instancia
 1. En el menú lateral, ve a Compute → Rescursos informaticos.
 2. Haz clic en Instancia.
+![screen](Oracle/Ima/image-1.png)
+
+
 
 ## 2.Configurar la Instancia
-
+![screen](Oracle/Ima/configinst.png)
 ## Imagen del SO 
 (ejemplo: Ubuntu 22.04).
+![screen](Oracle/Ima/so.png)
 
 # Forma de la Máquina Virtual:
 * Para opciones gratuitas, selecciona "Ampere A1 Compute" o "VM.Standard.E2.1.Micro".
@@ -34,7 +38,11 @@ En la siguiente sección, vamos a mantener la opción de generar el par de clave
 
 # Confirmando la creación
 Solo nos resta presionar el botón "Crear" para dar comienzo a la creación de la VPS:
+![screen](Oracle/Ima/crear.png)
 
 Automáticamente se dará comienzo al proceso de creación de la instancia, tal como vemos a continuación, y en algo menos de un minuto la misma estará disponible.
 
-En nuestro caso se necesitas acceso remoto por SSH
+![screen](Oracle/Ima/instancia.png)
+
+En nuestro caso se necesitas acceso remoto por SSH, abrimos power shell para luego enrtar a la capeta en donde se encuentra la llave.
+
